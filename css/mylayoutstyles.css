@@ -1,0 +1,25 @@
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 160px;
+    z-index: 2;
+    border-bottom: solid 1px #363333;
+}
+
+
+.subheader {
+/*    float: right*/
+     top: 5px;
+    right: 5px;
+    height: auto
+}
+
+.mainBody {
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    bottom: 20px;
+    padding-right: 5px;
+    
+}

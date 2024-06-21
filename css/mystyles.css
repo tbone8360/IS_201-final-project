@@ -1,0 +1,22 @@
+.box1 {
+    border: 2px solid black;        
+}
+
+.homebkgrn {
+    background-color: antiquewhite;
+}
+
+
+body { 
+    color: darkslategray;
+    font-family: arial;
+}
+
+.listheader {
+    font-family: monospace;
+    font-size: 18px;
+}
+
+.resumelistheadings{
+    font-size: 25px
+}
